@@ -1,0 +1,35 @@
+{
+	"en": {
+		"char.demon.name": "Demon",
+		"char.demon.desc": "Has low health and hight regeneration#+60% poison damage",
+		
+		"perk.name.discord": "Discord",
+		"perk.description.discord": "Oh hi",
+		
+		"perk.name.sack": "Bursting sack",
+		"perk.description.sack": "Rapidly fire projectiles#in random direction",
+		
+		"weapon.name.devil_chain": "Devil's chains",
+		"weapon.description.devil_chain": "Looks hot",
+		
+		"active.name.eggplant_potion": "Purple potion",
+		"active.description.eggplant_potion": "Smells like eggplant"
+	},
+	
+	"ru": {
+		"char.demon.name": "Демон",
+		"char.demon.desc": "Мало ХП, высокая регенерация#+60% к урону от яда",
+		
+		"perk.name.discord": "Discord",
+		"perk.description.discord": "О здарова",
+		
+		"perk.name.sack": "Разрывающийся мешок",
+		"perk.description.sack": "Часто выстреливает снарядами в случайные стороны",
+		
+		"weapon.name.devil_chain": "Цепь Архидемона",
+		"weapon.description.devil_chain": "Очень горячо",
+		
+		"active.name.eggplant_potion": "Фиолетовое зелье",
+		"active.description.eggplant_potion": "Пахнет баклажаном"
+	}
+}
